@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1579997040 source:c:\users\sama\desktop\tamrin 6\doooz\main.cpp
+	<iostream>
+	<graphics.h>
+	<stdio.h>
+
+1580129165 source:c:\users\sama\desktop\doooz\main.cpp
+	<iostream>
+	<graphics.h>
+	<stdio.h>
+
+1580058025 source:c:\users\sama\desktop\doooz\resources.rc
+
